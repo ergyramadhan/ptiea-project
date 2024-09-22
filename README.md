@@ -76,10 +76,10 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](./assets/image.png)
+![alt text](./assets/image-1.png)
+![alt text](./assets/image-2.png)
+![alt text](./assets/image-3.png)
 *Product list with CRUD operations and DataTables integration.*
 
 ## Project Structure
